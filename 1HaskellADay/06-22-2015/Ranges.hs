@@ -14,7 +14,7 @@ Let's fix this.
 --}
 
 oneToTen :: [Int]
-oneToTen = undefined
+oneToTen = [1..10]
 
 {--
 
